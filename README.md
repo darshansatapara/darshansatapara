@@ -54,7 +54,7 @@ I am Darshan Satapara, currently pursuing my B.Tech degree in Information Techno
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=darshansatapara&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=darshansatapara&include_all_commits=true&count_private=true&show_icons=true&line_height=70&theme=tokyonight"/>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshansatapara&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </td>
 </tr>
