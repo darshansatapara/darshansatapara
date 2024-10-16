@@ -45,22 +45,22 @@ I am Darshan Satapara, currently pursuing my B.Tech degree in Information Techno
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-<!-- ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) -->
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=ffffff)
 ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
+<!-- ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) -->
 ## 📈 &nbsp;Some Github Stats ##
 
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=darshansatapara&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshansatapara&theme=tokyonight" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=darshansatapara&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/> -->
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshansatapara&show_icons=true&locale=en&layout=compact&theme=tokyonight&exclude_repo=work-with-pandas" />
 </td>
 </tr>
 </table>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshansatapara&theme=tokyonight" />
 </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=darshansatapara&style=flat-square&color=blue)
