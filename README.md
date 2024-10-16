@@ -1,4 +1,4 @@
-# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Harshil! Great to see you here!</b>
+# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Darshan! Great to see you here!</b>
 <br>
 
 I am Darshan Satapara, currently pursuing my B.Tech degree in Information Technology from [Silver Oak College of Engineering & Technology](https://silveroakuni.ac.in/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
