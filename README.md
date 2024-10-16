@@ -7,9 +7,9 @@ I am Darshan Satapara, currently pursuing my B.Tech degree in Information Techno
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:darshansatapara286@gmail.com)](mailto:darshansatapara286@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darshansatapara/)](https://www.linkedin.com/in/darshansatapara/)
 [![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/SataparaDarshan)
-<!-- [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/harshilsarariya#9188) -->
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/mrdarshan_28/)](https://www.instagram.com/mrdarshan_28/)
 [![Darshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=darshansatapara&theme=react-dark)](https://github.com/darshansatapara)
+<!-- [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/harshilsarariya#9188) -->
 
 ## 👨🏻‍💻 Coding Profiles
 
